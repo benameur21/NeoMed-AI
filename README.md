@@ -37,5 +37,7 @@ NeoMedAito leverages the power of:
 - **Whisper (OpenAI)** for Speech Recognition
 - **Gradio** for Web Interface
 
+## 🙋‍♂️ Author
 
+Built with by **Islem Ben Ameur**
 
